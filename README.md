@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RhynoTX , or Ryan. 
+- 👋 Hi, I’m Ryan, also known as @RhynoTX .
 - 👀 I’m interested in learning by challenging myself to gain new skills so I can better my family and our opprotunities for the future!
 - 🌱 I’m currently learning about Web Development via the Odin Project.
 - 💞️ I’m looking to collaborate on whatever you've got!
